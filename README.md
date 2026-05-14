@@ -2,8 +2,8 @@
 
 💻 IT Engineering Student from Mexico  
 🚀 Full Stack Developer & Junior Product Owner
-🌱 Passionate about Web Development, UI/UX and Product Management  
 📍 Puebla, México  
+🌱 Passionate about Web Development, UI/UX and Product Management  
 
 ---
 
