@@ -1,9 +1,25 @@
 # Hi there 👋 I'm Scarlett Itzel
 
-💻 Software Developer from Mexico  
-🎓 Computer Systems Engineering Student  
-🌱 Currently learning Laravel, Django and Angular  
-🚀 Passionate about web development and software quality  
+💻 Full Stack Developer & Junior Product Owner
+🎓 IT Engineering at BUAP
+🌱 Currently learning Laravel
+🚀 Passionate about Web Development, UI/UX and Product Management
+📍 Puebla, México
+
+---
+
+🚀 About Me
+
+I'm a software developer in training with experience in:
+
+- Product management and requirement analysis
+- Full stack web development
+- UI/UX focused solutions
+- Agile methodologies such as Scrum and XP
+- Frontend and backend integration
+- Continuous improvement and software quality
+
+Currently working on internal systems development at Imagen Televisión as a Junior Product Owner / Full Stack developer.
 
 ---
 
