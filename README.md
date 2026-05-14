@@ -9,7 +9,7 @@
 
 ## 🎓 Education
 
-**Information Technology Engineering**  
+- **Information Technology Engineering**  
 Benemérita Universidad Autónoma de Puebla (BUAP), Mexico  
 2021 - Present  
 
@@ -19,7 +19,7 @@ Relevant Coursework: Web Engineering, Software Quality, UI/UX Design, Mobile Dev
 
 ## 💼 Work Experience
 
-**Junior Product Owner / Full Stack Intern**  
+- **Junior Product Owner / Full Stack Intern**  
 Imagen Televisión, Mexico  
 2026 - Present  
 
