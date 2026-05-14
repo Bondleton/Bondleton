@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Scarlett Itzel Xochicale Flores
+# 👋 Hi, I'm Scarlett
 
 💻 IT Engineering Student from Mexico  
-🚀 Junior Product Owner & Full Stack Developer  
-📍 Puebla, México  
+🚀 Full Stack Developer & Junior Product Owner 
 🌱 Passionate about Web Development, UI/UX and Product Management  
+📍 Puebla, México  
 
 ---
 
@@ -60,35 +60,6 @@ Currently working on internal systems development as a Junior Product Owner / Fu
 
 ---
 
-# 📌 Featured Projects
-
-## 🦷 ConsultDent — Dental Management System
-
-Full stack dental clinic management system focused on:
-
-- Appointment management
-- Patient administration
-- Reports and organization
-- User-centered experience
-- Agile development with Scrum & XP
-
-🔗 Add your repository link here
-
----
-
-## 📱 Android & PWA Applications with Ionic
-
-Development of mobile applications and PWAs focused on usability and user experience.
-
-- Interactive interfaces
-- Functional design
-- Responsive applications
-- UX-centered development
-
-🔗 Add your repository links here
-
----
-
 # 📚 Academic Background
 
 🎓 Information Technology Engineering  
@@ -111,13 +82,6 @@ Benemérita Universidad Autónoma de Puebla (BUAP)
 
 ---
 
-# 🌎 Languages
-
-- 🇲🇽 Spanish — Native
-- 🇺🇸 English — A2 Level
-
----
-
 # 📄 Publications
 
 📖 Co-author of an international academic publication about Artificial Intelligence and Interaction Design  
@@ -137,24 +101,5 @@ Benemérita Universidad Autónoma de Puebla (BUAP)
 
 📧 scarlett.xochicalef@alumno.buap.mx
 
-🐙 GitHub: https://github.com/Bondleton
+💼 LinkedIn: ![Scarlett](https://www.linkedin.com/in/scarlett-xochicale-9b023b347/)
 
-💼 LinkedIn: Add your LinkedIn here
-
-🌐 Portfolio: Add your portfolio here
-
----
-
-```javascript
-while(alive) {
-   eat();
-   sleep();
-   code();
-   repeat();
-}
-```
-
-```txt
-⚡ Fun fact:
-I can spend hours debugging just to discover a missing semicolon.
-```
